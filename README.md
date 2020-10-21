@@ -51,7 +51,7 @@ A method to use the dataset from Kaggle to train the predication model by Convol
 #### Without mask
 ![](https://github.com/ArthurShen8118/Face_Mask_Detector/blob/main/Readme_images/2020-10-21%2008%2038%2014.png)
 #### With mask
-![](https://github.com/ArthurShen8118/Face_Mask_Detector/blob/main/Readme_images/2020-10-21%2009%2032%2034.png)
+![](https://github.com/ArthurShen8118/Face_Mask_Detector/blob/main/Readme_images/2020-10-21%2009%2032%2036.png)
 ## Owner
 Made with by [Arthur Hui-Chung Shen](https://github.com/ArthurShen8118)
 
