@@ -3,7 +3,7 @@
 
 
 <div align= "center">
-  <h4>Face_Mask_Detector built with  Keras/Tensorflow and OpenCV using Deep Learning concepts in order to detect the face without mask.</h4>
+  <h4>Face Mask Detector built with  Keras/Tensorflow and OpenCV using Deep Learning concepts in order to detect the face without mask.</h4>
   
 </div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
