@@ -44,7 +44,7 @@ The dataset were collected from the following sources:
 
 
 ## Features
-A method to use the dataset from Kaggle to train the predication model by Convolutional Neural Network on Google Colab. And we trun on our webcam to detect if we wear mask properly. However, if we fail to wear mask, the detector will take the picture and do the record. The result is good.  
+A method to use the dataset from Kaggle to train the detection model by Convolutional Neural Network on Google Colab. And we trun on our webcam to detect if we wear mask properly. However, if we fail to wear mask, the detector will take the picture and do the record. The result is good.  
 
 ## Results
 
