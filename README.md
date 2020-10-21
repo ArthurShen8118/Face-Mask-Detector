@@ -16,7 +16,7 @@
 </div>
 
 ## Motivation
-Due to cases of  COVID-19 ramping up, we need to do something to restrict the servere spread of the virus. This project presents one of AI concepts as deep learning approach with computer vision to detect weather people wear mask or not. We can apply this concept to the another technologies more around our daily life ex: Face ID lock, Check in System.
+Due to cases of  COVID-19 ramping up, we need to do something to restrict the servere spread of the virus. This project presents one of AI concepts as deep learning approach with computer vision to detect wether people wear mask or not. We can apply this concept to the another technologies more around our daily life ex: Face ID lock, Check in System.
 
  
 
