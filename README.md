@@ -1,5 +1,5 @@
 
-<h1 align="center">Face_Mask_Detector</h1>
+<h1 align="center">Face Mask Detector</h1>
 
 
 <div align= "center">
